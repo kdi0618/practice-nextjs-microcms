@@ -1,3 +1,3 @@
-export default (req, res) => {
+export default clear = (req, res) => {
   res.clearPreviewData();
 }
